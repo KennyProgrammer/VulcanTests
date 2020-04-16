@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\CProjects\CraftixVulcan\VKHelper.h(12): error C2079: 'VKHelper' uses undefined struct 'CTXEngine::Renderer::VK::CTX_API'
+C:\CProjects\CraftixVulcan\VKHelper.h(18): error C2062: type 'VkApplicationInfo' unexpected
+C:\CProjects\CraftixVulcan\VKHelper.h(19): error C2143: syntax error: missing ';' before '{'
+C:\CProjects\CraftixVulcan\VKHelper.h(19): error C2447: '{': missing function header (old-style formal list?)
+C:\CProjects\CraftixVulcan\VKHelper.h(36): error C2039: 'vector': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\iostream(14): note: see declaration of 'std'
+C:\CProjects\CraftixVulcan\VKHelper.h(36): error C2061: syntax error: identifier 'vector'
+C:\CProjects\CraftixVulcan\VKHelper.h(42): error C2065: 'infoExtensions': undeclared identifier
+C:\CProjects\CraftixVulcan\VKHelper.h(43): error C2065: 'infoLayers': undeclared identifier
+C:\CProjects\CraftixVulcan\VKHelper.h(44): error C2065: 'infoExtensions': undeclared identifier
+C:\CProjects\CraftixVulcan\VKHelper.h(45): error C2065: 'infoLayers': undeclared identifier
+C:\CProjects\CraftixVulcan\VKHelper.h(114): error C2059: syntax error: '}'
+C:\CProjects\CraftixVulcan\VKHelper.h(114): error C2143: syntax error: missing ';' before '}'
+C:\CProjects\CraftixVulcan\Main.cpp(6): error C2143: syntax error: missing ';' before '{'
+C:\CProjects\CraftixVulcan\Main.cpp(6): error C2447: '{': missing function header (old-style formal list?)
